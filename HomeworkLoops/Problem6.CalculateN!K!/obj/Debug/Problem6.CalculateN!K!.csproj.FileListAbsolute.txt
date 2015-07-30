@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem6.CalculateN!K!\bin\Debug\Problem6.CalculateN!K!.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem6.CalculateN!K!\bin\Debug\Problem6.CalculateN!K!.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem6.CalculateN!K!\bin\Debug\Problem6.CalculateN!K!.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem6.CalculateN!K!\obj\Debug\Problem6.CalculateN!K!.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem6.CalculateN!K!\obj\Debug\Problem6.CalculateN!K!.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem6.CalculateN!K!\obj\Debug\Problem6.CalculateN!K!.pdb

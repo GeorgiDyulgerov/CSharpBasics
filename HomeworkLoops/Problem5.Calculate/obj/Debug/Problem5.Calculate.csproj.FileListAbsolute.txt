@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\HomeworkLoops\Problem5.Calculate\bin\Debug\Problem5.Calculate.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem5.Calculate\bin\Debug\Problem5.Calculate.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem5.Calculate\bin\Debug\Problem5.Calculate.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem5.Calculate\obj\Debug\Problem5.Calculate.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem5.Calculate\obj\Debug\Problem5.Calculate.pdb

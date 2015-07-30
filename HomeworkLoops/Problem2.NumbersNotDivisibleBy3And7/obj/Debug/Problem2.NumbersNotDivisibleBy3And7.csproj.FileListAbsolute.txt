@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\HomeworkLoops\Problem2.NumbersNotDivisibleBy3And7\bin\Debug\Problem2.NumbersNotDivisibleBy3And7.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HomeworkLoops\Problem2.NumbersNotDivisibleBy3And7\bin\Debug\Problem2.NumbersNotDivisibleBy3And7.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkLoops\Problem2.NumbersNotDivisibleBy3And7\bin\Debug\Problem2.NumbersNotDivisibleBy3And7.pdb
+c:\users\user\documents\visual studio 2013\Projects\HomeworkLoops\Problem2.NumbersNotDivisibleBy3And7\obj\Debug\Problem2.NumbersNotDivisibleBy3And7.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkLoops\Problem2.NumbersNotDivisibleBy3And7\obj\Debug\Problem2.NumbersNotDivisibleBy3And7.pdb

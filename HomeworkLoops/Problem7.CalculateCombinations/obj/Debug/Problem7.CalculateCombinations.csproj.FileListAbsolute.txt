@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem7.CalculateCombinations\bin\Debug\Problem7.CalculateCombinations.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem7.CalculateCombinations\bin\Debug\Problem7.CalculateCombinations.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem7.CalculateCombinations\bin\Debug\Problem7.CalculateCombinations.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem7.CalculateCombinations\obj\Debug\Problem7.CalculateCombinations.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem7.CalculateCombinations\obj\Debug\Problem7.CalculateCombinations.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkLoops\Problem7.CalculateCombinations\obj\Debug\Problem7.CalculateCombinations.pdb
