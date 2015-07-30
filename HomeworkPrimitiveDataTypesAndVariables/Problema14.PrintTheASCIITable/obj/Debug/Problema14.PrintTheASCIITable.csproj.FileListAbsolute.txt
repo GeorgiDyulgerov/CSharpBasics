@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problema14.PrintTheASCIITable\bin\Debug\Problema14.PrintTheASCIITable.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problema14.PrintTheASCIITable\bin\Debug\Problema14.PrintTheASCIITable.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problema14.PrintTheASCIITable\bin\Debug\Problema14.PrintTheASCIITable.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problema14.PrintTheASCIITable\obj\Debug\Problema14.PrintTheASCIITable.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problema14.PrintTheASCIITable\obj\Debug\Problema14.PrintTheASCIITable.pdb

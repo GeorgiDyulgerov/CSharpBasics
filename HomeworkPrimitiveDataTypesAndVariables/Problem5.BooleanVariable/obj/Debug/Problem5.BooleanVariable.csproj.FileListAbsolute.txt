@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problem5.BooleanVariable\bin\Debug\Problem5.BooleanVariable.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problem5.BooleanVariable\bin\Debug\Problem5.BooleanVariable.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problem5.BooleanVariable\bin\Debug\Problem5.BooleanVariable.pdb
+c:\users\user\documents\visual studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problem5.BooleanVariable\obj\Debug\Problem5.BooleanVariable.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problem5.BooleanVariable\obj\Debug\Problem5.BooleanVariable.pdb

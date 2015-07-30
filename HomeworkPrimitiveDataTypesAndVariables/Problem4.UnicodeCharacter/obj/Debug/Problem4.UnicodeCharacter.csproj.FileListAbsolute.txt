@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problem4.UnicodeCharacter\bin\Debug\Problem4.UnicodeCharacter.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problem4.UnicodeCharacter\bin\Debug\Problem4.UnicodeCharacter.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problem4.UnicodeCharacter\bin\Debug\Problem4.UnicodeCharacter.pdb
+c:\users\user\documents\visual studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problem4.UnicodeCharacter\obj\Debug\Problem4.UnicodeCharacter.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problem4.UnicodeCharacter\obj\Debug\Problem4.UnicodeCharacter.pdb
+c:\users\user\documents\visual studio 2013\Projects\HomeworkPrimitiveDataTypesAndVariables\Problem4.UnicodeCharacter\obj\Debug\Problem4.UnicodeCharacter.csprojResolveAssemblyReference.cache
