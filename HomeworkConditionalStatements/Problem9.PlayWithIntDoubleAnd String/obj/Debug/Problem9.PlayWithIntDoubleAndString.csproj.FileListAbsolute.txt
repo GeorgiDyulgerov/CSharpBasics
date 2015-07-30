@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution4\Problem9.PlayWithIntDoubleAnd String\bin\Debug\Problem9.PlayWithIntDoubleAnd String.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution4\Problem9.PlayWithIntDoubleAnd String\bin\Debug\Problem9.PlayWithIntDoubleAnd String.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution4\Problem9.PlayWithIntDoubleAnd String\bin\Debug\Problem9.PlayWithIntDoubleAnd String.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution4\Problem9.PlayWithIntDoubleAnd String\obj\Debug\Problem9.PlayWithIntDoubleAnd String.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution4\Problem9.PlayWithIntDoubleAnd String\obj\Debug\Problem9.PlayWithIntDoubleAnd String.pdb

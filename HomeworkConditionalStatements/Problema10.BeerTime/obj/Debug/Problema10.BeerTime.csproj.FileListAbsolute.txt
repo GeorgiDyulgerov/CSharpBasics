@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution4\Problema10.BeerTime\bin\Debug\Problema10.BeerTime.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution4\Problema10.BeerTime\bin\Debug\Problema10.BeerTime.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution4\Problema10.BeerTime\bin\Debug\Problema10.BeerTime.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution4\Problema10.BeerTime\obj\Debug\Problema10.BeerTime.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution4\Problema10.BeerTime\obj\Debug\Problema10.BeerTime.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution4\Problema10.BeerTime\obj\Debug\Problema10.BeerTime.pdb

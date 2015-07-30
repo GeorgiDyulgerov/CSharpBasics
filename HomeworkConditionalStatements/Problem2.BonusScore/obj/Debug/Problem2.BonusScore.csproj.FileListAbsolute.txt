@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Solution4\Problem2.BonusScore\bin\Debug\Problem2.BonusScore.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Solution4\Problem2.BonusScore\bin\Debug\Problem2.BonusScore.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution4\Problem2.BonusScore\bin\Debug\Problem2.BonusScore.pdb
+c:\users\user\documents\visual studio 2013\Projects\Solution4\Problem2.BonusScore\obj\Debug\Problem2.BonusScore.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Solution4\Problem2.BonusScore\obj\Debug\Problem2.BonusScore.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution4\Problem2.BonusScore\obj\Debug\Problem2.BonusScore.pdb
