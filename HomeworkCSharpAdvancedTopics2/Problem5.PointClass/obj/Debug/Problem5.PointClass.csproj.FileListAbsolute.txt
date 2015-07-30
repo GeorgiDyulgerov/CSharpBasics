@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem5.PointClass\bin\Debug\Problem5.PointClass.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem5.PointClass\bin\Debug\Problem5.PointClass.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem5.PointClass\bin\Debug\Problem5.PointClass.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem5.PointClass\obj\Debug\Problem5.PointClass.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem5.PointClass\obj\Debug\Problem5.PointClass.pdb

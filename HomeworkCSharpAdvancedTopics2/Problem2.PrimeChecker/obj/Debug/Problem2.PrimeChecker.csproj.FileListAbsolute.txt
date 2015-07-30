@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem2.PrimeChecker\bin\Debug\Problem2.PrimeChecker.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem2.PrimeChecker\bin\Debug\Problem2.PrimeChecker.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem2.PrimeChecker\bin\Debug\Problem2.PrimeChecker.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem2.PrimeChecker\obj\Debug\Problem2.PrimeChecker.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem2.PrimeChecker\obj\Debug\Problem2.PrimeChecker.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem2.PrimeChecker\obj\Debug\Problem2.PrimeChecker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem3.PrimesGivenRange\bin\Debug\Problem3.PrimesGivenRange.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem3.PrimesGivenRange\obj\Debug\Problem3.PrimesGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem3.PrimesGivenRange\bin\Debug\Problem3.PrimesGivenRange.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem3.PrimesGivenRange\bin\Debug\Problem3.PrimesGivenRange.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem3.PrimesGivenRange\obj\Debug\Problem3.PrimesGivenRange.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem3.PrimesGivenRange\obj\Debug\Problem3.PrimesGivenRange.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem4.DifferenceBetweenDates\bin\Debug\Problem4.DifferenceBetweenDates.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem4.DifferenceBetweenDates\bin\Debug\Problem4.DifferenceBetweenDates.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem4.DifferenceBetweenDates\bin\Debug\Problem4.DifferenceBetweenDates.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem4.DifferenceBetweenDates\obj\Debug\Problem4.DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem4.DifferenceBetweenDates\obj\Debug\Problem4.DifferenceBetweenDates.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics2\Problem4.DifferenceBetweenDates\obj\Debug\Problem4.DifferenceBetweenDates.pdb
