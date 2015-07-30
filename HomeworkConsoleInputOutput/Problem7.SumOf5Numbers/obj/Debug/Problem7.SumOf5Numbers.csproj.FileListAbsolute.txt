@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkConsoleInputOutput\Problem7.SumOf5Numbers\bin\Debug\Problem7.SumOf5Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkConsoleInputOutput\Problem7.SumOf5Numbers\bin\Debug\Problem7.SumOf5Numbers.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkConsoleInputOutput\Problem7.SumOf5Numbers\bin\Debug\Problem7.SumOf5Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkConsoleInputOutput\Problem7.SumOf5Numbers\obj\Debug\Problem7.SumOf5Numbers.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkConsoleInputOutput\Problem7.SumOf5Numbers\obj\Debug\Problem7.SumOf5Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkConsoleInputOutput\Problem7.SumOf5Numbers\obj\Debug\Problem7.SumOf5Numbers.csprojResolveAssemblyReference.cache

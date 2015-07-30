@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem2.PrintCompanyInformation\bin\Debug\Problem2.PrintCompanyInformation.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem2.PrintCompanyInformation\bin\Debug\Problem2.PrintCompanyInformation.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem2.PrintCompanyInformation\bin\Debug\Problem2.PrintCompanyInformation.pdb
+c:\users\user\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem2.PrintCompanyInformation\obj\Debug\Problem2.PrintCompanyInformation.exe
+c:\users\user\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem2.PrintCompanyInformation\obj\Debug\Problem2.PrintCompanyInformation.pdb
