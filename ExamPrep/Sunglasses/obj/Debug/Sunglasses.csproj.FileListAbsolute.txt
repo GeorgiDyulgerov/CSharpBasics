@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\Exams\Sunglasses\bin\Debug\Sunglasses.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Exams\Sunglasses\bin\Debug\Sunglasses.exe
+c:\users\user\documents\visual studio 2013\Projects\Exams\Sunglasses\bin\Debug\Sunglasses.pdb
+c:\users\user\documents\visual studio 2013\Projects\Exams\Sunglasses\obj\Debug\Sunglasses.exe
+c:\users\user\documents\visual studio 2013\Projects\Exams\Sunglasses\obj\Debug\Sunglasses.pdb
+c:\users\user\documents\visual studio 2013\Projects\Exams\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+E:\Win7 Desktop\Projects\Projects\Exams\Sunglasses\bin\Debug\Sunglasses.exe.config
+E:\Win7 Desktop\Projects\Projects\Exams\Sunglasses\obj\Debug\Sunglasses.exe
+E:\Win7 Desktop\Projects\Projects\Exams\Sunglasses\obj\Debug\Sunglasses.pdb
+E:\Win7 Desktop\Projects\Projects\Exams\Sunglasses\bin\Debug\Sunglasses.exe
+E:\Win7 Desktop\Projects\Projects\Exams\Sunglasses\bin\Debug\Sunglasses.pdb
+E:\Win7 Desktop\Projects\Projects\Exams\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache

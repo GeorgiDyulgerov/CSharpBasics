@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Exams\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Exams\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe
+c:\users\user\documents\visual studio 2013\Projects\Exams\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.pdb
+c:\users\user\documents\visual studio 2013\Projects\Exams\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.exe
+c:\users\user\documents\visual studio 2013\Projects\Exams\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.pdb
+E:\Win7 Desktop\Projects\Projects\Exams\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe.config
+E:\Win7 Desktop\Projects\Projects\Exams\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.exe
+E:\Win7 Desktop\Projects\Projects\Exams\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.pdb

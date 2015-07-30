@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Exams\JoroTheFootballPlayerE\bin\Debug\JoroTheFootballPlayerE.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Exams\JoroTheFootballPlayerE\bin\Debug\JoroTheFootballPlayerE.exe
+c:\users\user\documents\visual studio 2013\Projects\Exams\JoroTheFootballPlayerE\bin\Debug\JoroTheFootballPlayerE.pdb
+c:\users\user\documents\visual studio 2013\Projects\Exams\JoroTheFootballPlayerE\obj\Debug\JoroTheFootballPlayerE.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Exams\JoroTheFootballPlayerE\obj\Debug\JoroTheFootballPlayerE.exe
+c:\users\user\documents\visual studio 2013\Projects\Exams\JoroTheFootballPlayerE\obj\Debug\JoroTheFootballPlayerE.pdb
+E:\Win7 Desktop\Projects\Projects\Exams\JoroTheFootballPlayerE\bin\Debug\JoroTheFootballPlayerE.exe.config
+E:\Win7 Desktop\Projects\Projects\Exams\JoroTheFootballPlayerE\obj\Debug\JoroTheFootballPlayerE.exe
+E:\Win7 Desktop\Projects\Projects\Exams\JoroTheFootballPlayerE\obj\Debug\JoroTheFootballPlayerE.pdb

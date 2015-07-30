@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Exams\StudentCables\bin\Debug\StudentCables.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Exams\StudentCables\bin\Debug\StudentCables.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Exams\StudentCables\bin\Debug\StudentCables.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Exams\StudentCables\obj\Debug\StudentCables.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Exams\StudentCables\obj\Debug\StudentCables.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Exams\StudentCables\obj\Debug\StudentCables.pdb
+E:\Win7 Desktop\Projects\Projects\Exams\StudentCables\bin\Debug\StudentCables.exe.config
+E:\Win7 Desktop\Projects\Projects\Exams\StudentCables\obj\Debug\StudentCables.exe
+E:\Win7 Desktop\Projects\Projects\Exams\StudentCables\obj\Debug\StudentCables.pdb
