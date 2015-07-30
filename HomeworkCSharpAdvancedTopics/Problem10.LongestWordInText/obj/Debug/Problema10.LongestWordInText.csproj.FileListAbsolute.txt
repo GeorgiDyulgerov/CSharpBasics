@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics\Problem10.LongestWordInText\bin\Debug\Problem10.LongestWordInText.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics\Problem10.LongestWordInText\bin\Debug\Problem10.LongestWordInText.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics\Problem10.LongestWordInText\bin\Debug\Problem10.LongestWordInText.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics\Problem10.LongestWordInText\obj\Debug\Problem10.LongestWordInText.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvancedTopics\Problem10.LongestWordInText\obj\Debug\Problem10.LongestWordInText.pdb
