@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problema11.BitwiseExtractBit3\bin\Debug\Problema11.BitwiseExtractBit3.exe.config
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problema11.BitwiseExtractBit3\bin\Debug\Problema11.BitwiseExtractBit3.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problema11.BitwiseExtractBit3\bin\Debug\Problema11.BitwiseExtractBit3.pdb
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problema11.BitwiseExtractBit3\obj\Debug\Problema11.BitwiseExtractBit3.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problema11.BitwiseExtractBit3\obj\Debug\Problema11.BitwiseExtractBit3.pdb

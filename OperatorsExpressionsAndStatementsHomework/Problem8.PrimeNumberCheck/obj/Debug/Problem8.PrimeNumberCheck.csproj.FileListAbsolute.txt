@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problem8.PrimeNumberCheck\bin\Debug\Problem8.PrimeNumberCheck.exe.config
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problem8.PrimeNumberCheck\bin\Debug\Problem8.PrimeNumberCheck.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problem8.PrimeNumberCheck\bin\Debug\Problem8.PrimeNumberCheck.pdb
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problem8.PrimeNumberCheck\obj\Debug\Problem8.PrimeNumberCheck.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problem8.PrimeNumberCheck\obj\Debug\Problem8.PrimeNumberCheck.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problem8.PrimeNumberCheck\obj\Debug\Problem8.PrimeNumberCheck.pdb

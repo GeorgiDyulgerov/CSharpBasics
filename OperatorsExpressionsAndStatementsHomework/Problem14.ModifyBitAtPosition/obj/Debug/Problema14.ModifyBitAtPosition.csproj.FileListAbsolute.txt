@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problem14.ModifyBitAtPosition\bin\Debug\Problem14.ModifyBitAtPosition.exe.config
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problem14.ModifyBitAtPosition\bin\Debug\Problem14.ModifyBitAtPosition.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problem14.ModifyBitAtPosition\bin\Debug\Problem14.ModifyBitAtPosition.pdb
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problem14.ModifyBitAtPosition\obj\Debug\Problem14.ModifyBitAtPosition.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\Problem14.ModifyBitAtPosition\obj\Debug\Problem14.ModifyBitAtPosition.pdb
