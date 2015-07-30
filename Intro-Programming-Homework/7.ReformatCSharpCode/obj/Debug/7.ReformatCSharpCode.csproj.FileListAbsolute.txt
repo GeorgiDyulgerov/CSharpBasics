@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\7.ReformatCSharpCode\bin\Debug\7.ReformatCSharpCode.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\7.ReformatCSharpCode\bin\Debug\7.ReformatCSharpCode.exe
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\7.ReformatCSharpCode\bin\Debug\7.ReformatCSharpCode.pdb
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\7.ReformatCSharpCode\obj\Debug\7.ReformatCSharpCode.exe
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\7.ReformatCSharpCode\obj\Debug\7.ReformatCSharpCode.pdb
+C:\Users\User\Desktop\Intro-Programming-Homework\7.ReformatCSharpCode\bin\Debug\7.ReformatCSharpCode.exe.config
+C:\Users\User\Desktop\Intro-Programming-Homework\7.ReformatCSharpCode\obj\Debug\7.ReformatCSharpCode.exe
+C:\Users\User\Desktop\Intro-Programming-Homework\7.ReformatCSharpCode\obj\Debug\7.ReformatCSharpCode.pdb

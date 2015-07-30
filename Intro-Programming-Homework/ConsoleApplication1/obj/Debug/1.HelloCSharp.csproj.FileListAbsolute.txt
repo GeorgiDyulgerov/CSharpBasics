@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Desktop\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\1.HelloCSharp.exe.config

@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\Print1stAndLastName\bin\Debug\Print1stAndLastName.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\Print1stAndLastName\bin\Debug\Print1stAndLastName.exe
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\Print1stAndLastName\bin\Debug\Print1stAndLastName.pdb
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\Print1stAndLastName\obj\Debug\Print1stAndLastName.exe
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\Print1stAndLastName\obj\Debug\Print1stAndLastName.pdb
